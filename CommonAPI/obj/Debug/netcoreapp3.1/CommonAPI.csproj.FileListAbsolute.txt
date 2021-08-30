@@ -1,0 +1,9 @@
+D:\Projects\PokemonAPI\CommonAPI\obj\Debug\netcoreapp3.1\CommonAPI.csprojAssemblyReference.cache
+D:\Projects\PokemonAPI\CommonAPI\obj\Debug\netcoreapp3.1\CommonAPI.AssemblyInfoInputs.cache
+D:\Projects\PokemonAPI\CommonAPI\obj\Debug\netcoreapp3.1\CommonAPI.AssemblyInfo.cs
+D:\Projects\PokemonAPI\CommonAPI\obj\Debug\netcoreapp3.1\CommonAPI.csproj.CoreCompileInputs.cache
+D:\Projects\PokemonAPI\CommonAPI\bin\Debug\netcoreapp3.1\CommonAPI.deps.json
+D:\Projects\PokemonAPI\CommonAPI\bin\Debug\netcoreapp3.1\CommonAPI.dll
+D:\Projects\PokemonAPI\CommonAPI\bin\Debug\netcoreapp3.1\CommonAPI.pdb
+D:\Projects\PokemonAPI\CommonAPI\obj\Debug\netcoreapp3.1\CommonAPI.dll
+D:\Projects\PokemonAPI\CommonAPI\obj\Debug\netcoreapp3.1\CommonAPI.pdb
